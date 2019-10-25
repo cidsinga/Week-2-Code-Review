@@ -33,6 +33,13 @@ body {
   background-color: #222222;
   color: #49A19A
 }
+
+.form-control {
+  background-color: #49A19A
+}
+.results {
+  margin-top: 250px;
+}
 /* .submit {
   display: block;
   background-color: #49A19A;

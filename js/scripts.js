@@ -14,21 +14,17 @@ console.log(result)
 
 if (color, usage, amigo, hogwarts, instructor === 0) {
     alert("Please make a selection from each box");
-
 // if (result <5) {
 //   alert("Please make a selection from each box");
 } else if (result < 9) {
   $(".JavaScript").show();
-  $(".Python .Ruby").hide();
 } else if (result <13) {
   $(".Python").show();
-  $(".JavaScript .ruby").hide();
 } else if (result < 16) {
   $(".Ruby").show();
-  $(".JavaScript .Python").hide()
 }
 
 console.log()
 
- });
+  });
  });

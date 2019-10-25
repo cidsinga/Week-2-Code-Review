@@ -20,20 +20,23 @@ if (color === 0, usage === 0, amigo === 0, hogwarts === 0, instructor === 0) {
 } else if (result < 9) {
   $(".JavaScript").show();
   $(".Ruby, .Python").hide();
+
 } else if (result < 13) {
+
   $(".Python").show();
-  $(".Ruby, .Python").hide();
+  $(".Ruby, .JavaScript").hide();
+
 } else if (result < 16) {
+
   $(".Ruby").show();
   $(".Python, .JavaScript").hide();
+
 } else {
   console.log(error)
 }
 
 
-$(".submit").click(function(event) {
-    $("color, usage, amigo, hogwarts, instructor").val("Select");
-});
+
 
 console.log()
 

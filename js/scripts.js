@@ -12,7 +12,7 @@ var instructor = parseInt($("#instructor option:selected").val());
 var result = (color + usage + amigo + hogwarts + instructor);
 console.log(result)
 
-if (color, usage, amigo, hogwarts, instructor === 0) {
+if (color === 0, usage === 0, amigo === 0, hogwarts === 0, instructor === 0) {
     alert("Please make a selection from each box");
 // if (result <5) {
 //   alert("Please make a selection from each box");

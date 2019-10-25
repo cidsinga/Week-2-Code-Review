@@ -11,3 +11,28 @@ display: none;
 body {
   background-color: #49A19A;
 }
+
+#color {
+  background-color: #222222;
+  color: #49A19A;
+}
+
+#usage {
+  background-color: #222222;
+  color: #49A19A
+}
+#amigo {
+  background-color: #222222;
+  color: #49A19A;
+}
+#hogwarts {
+  background-color: #222222;
+  color: #49A19A
+}
+#instructor {
+  background-color: #222222;
+  color: #49A19A
+}
+.submit {
+
+}

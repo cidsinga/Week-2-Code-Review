@@ -2,3 +2,12 @@
 .JavaScript, .Python, .Ruby {
 display: none;
 }
+
+.jumbotron {
+  background-color: #222222
+  Color: #49A19A
+}
+
+body {
+  background-color: #49A19A
+}

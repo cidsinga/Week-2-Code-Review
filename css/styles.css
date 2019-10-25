@@ -3,6 +3,10 @@
 display: none;
 }
 
+.form-control {
+    border: 0;
+}
+
 .jumbotron {
   background-color: #222222;
   Color: #49A19A;
@@ -40,7 +44,6 @@ body {
 .results {
   margin-top: 250px;
 }
-/* .submit {
+.submit {
   display: block;
-  background-color: #49A19A;
-} */
+}

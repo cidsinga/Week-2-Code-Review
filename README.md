@@ -16,7 +16,9 @@ This is a basic web form using branching to suggest what coding language to star
 
 ## Known Bugs
 
-No known bugs as of 10/25/19
+Page loads with question mark behind the address indicating that the form is auto submitting.  JS includes event.preventDefault command but still getting this message.
+
+Page can be used by deleting the question mark at the end of the address.
 
 ## Support and contact details
 

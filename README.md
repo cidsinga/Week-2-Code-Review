@@ -20,6 +20,8 @@ Page loads with question mark behind the address indicating that the form is aut
 
 Page can be used by deleting the question mark at the end of the address.
 
+Also, while not a bug, I'm not completely happy with the Submit button layout but can't get it to do what I want.
+
 ## Support and contact details
 
 Please let me know if you see areas of improvement, and/or feel free to make changes yourself.
@@ -30,6 +32,5 @@ html, css, JavaScript, jquery, and bootstrap were used to create this page.
 
 ### License
 GPL
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
 
 Copyright (c) 2019 **_Casey Idsinga_**
